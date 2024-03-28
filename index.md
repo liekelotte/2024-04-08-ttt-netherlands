@@ -1,4 +1,5 @@
 ---
+---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.
 curriculum: "Instructor Training" # DON'T CHANGE THIS EITHER. (THANK YOU.)
